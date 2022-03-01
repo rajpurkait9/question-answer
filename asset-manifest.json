@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/question-answer/static/css/main.8e9efb38.css",
+    "main.js": "/question-answer/static/js/main.a80127d6.js",
+    "static/js/787.039506a6.chunk.js": "/question-answer/static/js/787.039506a6.chunk.js",
+    "index.html": "/question-answer/index.html",
+    "main.8e9efb38.css.map": "/question-answer/static/css/main.8e9efb38.css.map",
+    "main.a80127d6.js.map": "/question-answer/static/js/main.a80127d6.js.map",
+    "787.039506a6.chunk.js.map": "/question-answer/static/js/787.039506a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e9efb38.css",
+    "static/js/main.a80127d6.js"
+  ]
+}
